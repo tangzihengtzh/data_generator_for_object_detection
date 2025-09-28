@@ -118,5 +118,9 @@ python generate_no_overlap.py
 - 基于密度图的目标计数
 - 航拍小目标/显微小目标模拟
 
+单个数据集实例如下，包含多类别标签密度图
+<img width="1830" height="233" alt="image" src="https://github.com/user-attachments/assets/41fda8e5-525e-4adb-9a5a-bdac90959ab6" />
+
+
 ## 许可证
 MIT 协议，支持科研与教育使用。
